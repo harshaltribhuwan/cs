@@ -1,0 +1,103 @@
+.nav-link{
+    text-transform: uppercase;
+    transition: all .4s;
+}
+.nav-link:hover{
+    border-bottom: 2px solid green;
+    padding: 20px;
+    transition: all .4s;
+}
+nav{
+    box-shadow: 2px -2px 0px 5px rgba(0, 0, 0, 0.212);
+}
+.ulnav{
+    margin-left: auto;
+    margin-right: 30px;
+}
+
+.linav{
+    padding-right: 20px;
+}
+
+#head1{
+    font-size: 65px;
+}
+
+#btn{
+    margin-top: 3rem;
+    font-size: 25px;
+}
+
+.home{
+    background-image: url(https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&ixid=eyJhcHBfaWQiOjEyMDd9);
+    background-size: cover;
+    height: 832px;
+    color: white;
+    background-attachment: fixed;
+}
+
+#header{
+    padding-top: 15em;
+}
+
+.reservation{
+    margin-left: 50px;
+}
+
+.info{
+    margin-left: 30px;
+}
+
+.line{
+    background-color: lightgreen;
+    height: 3px;
+    width: 100%;
+}
+
+.fo{
+    margin-left: 100px;
+}
+
+.menu{
+    background-color: rgb(214, 214, 214);
+}
+
+.img-menu{
+    height: 250px;
+    width: 200px;
+}
+.sa{
+    margin-top: 1rem;
+    margin-left: 8%;
+}
+
+.card-title{
+    font-size: 35px;
+}
+
+.card-text{
+    font-size: 24px;
+}
+
+.card-body{
+    transition: all .5s;
+}
+
+.card:hover{
+    transition: all .5s;
+    box-shadow: 2px 5px 0 2px rgba(0, 0, 0, 0.253);
+}
+
+.img-slide-show{
+    min-height: 700px;
+    max-height: 700px;
+}
+
+.news{
+    background-color: rgb(214, 214, 214);
+}
+.card-img1{
+    min-height: 300px;
+    max-height: 300px;
+}
+
